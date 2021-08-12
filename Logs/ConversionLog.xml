@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="PracticaM27_V13_SP1" typeText="Tipo" messageText="Mensaje" timeText="Hora">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:19:03">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Actualización iniciada" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:19:05">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Leyendo información de la librería o el proyecto anterior." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:19:20">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Actualizando librería o proyecto nuevo." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:19:28">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Actualizando librería o proyecto nuevo." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="26/10/2018 13:19:34" Debug="false">
+    <Text>Preparando conversión del programa S7 para la CPU "PLC_2".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="26/10/2018 13:19:42" Debug="false">
+    <Text>Conversión finalizada.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="26/10/2018 13:19:44" Debug="false">
+    <Text>El programa S7 se está convirtiendo para la CPU "PLC_2".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="26/10/2018 13:19:57" Debug="false">
+    <Text>Conversión finalizada.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:20:03">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Actualizando librería o proyecto nuevo." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="26/10/2018 13:20:04">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Guardando la librería o el proyecto actualizado." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="26/10/2018 13:20:07">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="El proyecto 'PracticaM27' se ha actualizado correctamente y se ha guardado como proyecto 'PracticaM27_V13_SP1'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
